@@ -31,6 +31,10 @@ For MDT112 Student
 - ตัวรับสัญญาณ GPS
 
 ## image
-[logo]:https://github.com/katapat/MDT112-Project/blob/master/images/icon48.png"Logo Title Text"
+![alt text For Logo 1][logo]
 
-[flowchart]:https://github.com/katapat/MDT112-Project/blob/master/images/Project%20Flowchart.svg"Logo Title Text"
+![alt text For Logo 2][flowchart]
+
+[logo]: https://github.com/katapat/MDT112-Project/blob/master/images/icon48.png "Logo Title Text"
+
+[flowchart]: https://github.com/katapat/MDT112-Project/blob/master/images/Project%20Flowchart.svg "Logo Title Text"
