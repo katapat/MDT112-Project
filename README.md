@@ -33,4 +33,3 @@ For MDT112 Student
 ## image
 images/icon48.png
 images/Project Flowchart.svg
-images/Project FlowChart.svg
