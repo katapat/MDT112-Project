@@ -31,5 +31,5 @@ For MDT112 Student
 - ตัวรับสัญญาณ GPS
 
 ## image
-(images/icon48.png)
-(images/Project Flowchart.svg)
+https://github.com/katapat/MDT112-Project/blob/master/images/icon48.png
+https://github.com/katapat/MDT112-Project/blob/master/images/Project%20Flowchart.svg
